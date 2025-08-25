@@ -23,11 +23,14 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://www.loom.com/share/3090b545bdc849539a4974c7e2aed469?sid=5dcafd21-857c-4d41-a8f6-f97e84d34677' title='Video Walkthrough' 
-width='' alt='Video Walkthrough' />
+<a href="https://youtu.be/JzHiOe5_7-A" title="Setup - 25 August 2025 - Video Walkthrough">
+    <img src="https://img.youtube.com/vi/JzHiOe5_7-A/maxresdefault.jpg" 
+         alt="Video Walkthrough" 
+         width="480" />
+</a>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  loom
+GIF created with ...  scrreenrecorder and youtube
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
